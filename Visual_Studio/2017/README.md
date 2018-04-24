@@ -1,0 +1,1 @@
+This file contains any settings in Visual Studio 2017 regarding text editor options and color schemes.
