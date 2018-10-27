@@ -7,7 +7,7 @@ To install these themes, see [here for Visual Studio 2010 (and newer)](https://b
 # Dark Theme
 The used colors are as follows.  
 ![14](img/14.png) _#252525_: Text editor (background)  
-![1](img/1.png) _#252525_: Keywords  
+![1](img/1.png) _#569CD6: Keywords  
 ![2](img/2.png) _#B5CEA8_: Numbers  
 ![3](img/3.png) _#BDB76B_: Local variables  
 ![4](img/4.png) _#D69D85_: Strings  
